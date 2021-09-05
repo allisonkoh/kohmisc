@@ -1,0 +1,13 @@
+Package: kohper
+Type: Package
+Title: Koh's Helper Functions
+Version: 0.1.0
+Authors@R: c(person("Allison", "Koh", email = "kohallison3@gmail.com", role = c("aut", "cre")))
+Maintainer: Allison Koh <kohallison3@gmail.com>
+Description: AKoh's personal `R` functions to streamline data wrangling and visualization
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  ggplot2
+RoxygenNote: 7.1.1 
