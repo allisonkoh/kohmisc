@@ -1,1 +1,1 @@
-# `{kohper}`: Koh's Helper Functions
+# `{kohmisc}`: Koh's Miscellaneous Helper Functions
